@@ -5,6 +5,6 @@ Este repositorio contiene los **scripts y workspaces** desarrollados para el Tra
 ## Integrantes del grupo
 
 - Ramírez, Valentín
-- José López Sivilat, José Ignacio
+- López Sivilat, José Ignacio
 - López, Franco Gabriel
 - Beierbach, Alejo Adrián
